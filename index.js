@@ -1,2 +1,2 @@
-console.log("Hello master");
-console.log("master");
+console.log("Hello Dev");
+console.log("Dev");
