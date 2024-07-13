@@ -1,2 +1,2 @@
-console.log("Hello Master");
+console.log("Hello Fuck");
 console.log("Dev");
